@@ -1,0 +1,53 @@
+
+
+/* Codice per schermi XXXL  */
+
+
+.carousel-inner{
+    height: 30rem;
+}
+
+.carousel-item img{
+    position:  relative !important;
+    height: 100% !important;
+    width:  100% !important;
+}
+
+.corpo_tesla{
+    background-color: white;
+    box-shadow: 2px 2px 5px;
+}
+
+.corpo_tendina {
+    background-color: white;
+    box-shadow: 2px 2px 5px;
+}
+
+.tendina_centrale {
+    margin-left: 20rem;
+    margin-right: 20rem;
+}
+
+select {
+    width: 18rem !important;
+}
+
+.ins_testo {
+    margin-top: 1rem !important;
+}
+.bottone_ricerca {
+    width: 41rem !important;
+    margin-top: 1rem;
+    margin-left: 20rem;
+    margin-bottom: 2rem;
+}
+
+.nostre_cars {
+    box-shadow: 2px 2px 5px;
+}
+
+.contenitore_cards{
+    box-shadow: 2px 2px 5px;
+}
+
+
